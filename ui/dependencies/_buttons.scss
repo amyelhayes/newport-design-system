@@ -37,7 +37,10 @@
 }
 
 @mixin button-brand {
-  background-color: $color-background-button-brand;
+
+  // Elite - change from background-color to background to allow for gradient
+  background: $color-background-button-brand;
+
   border-color: $button-color-border-brand-primary;
   color: $color-text-brand-primary;
 
@@ -49,7 +52,9 @@
 
   &:hover,
   &:focus {
-    background-color: $color-background-brand-primary-hover;
+    //Elite - change from background-color to background to allow for gradient
+    background: $color-background-button-brand-reverse;
+    
     border-color: $color-border-brand-primary-hover;
     color: $color-text-brand-primary;
   }

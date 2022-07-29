@@ -188,7 +188,12 @@ $rome-blue: hsl(210, 30.56%, 82.72%);
 $salem-transparent-95: rgba(4, 132, 75, 0.95);
 $salem: #04844b;
 $san-juan: #2a426c;
-$science-blue: #0070d2;
+$science-blue: rgb(24, 99, 240);
+
+//Elite Custom
+$Elite-blue: linear-gradient(225deg, #00A7B5 0%, #001E62 75%, #001E62 100%);
+$Elite-blue-reverse: linear-gradient(225deg, #001E62 0%, #001E62 75%, #00A7B5 100% );
+
 $sea-green-100: hsl(177, 64.7%, 51.9%);
 $sea-green-300: hsl(177, 61.3%, 47.1%);
 $sea-green-500: hsl(177, 62.6%, 41.2%);

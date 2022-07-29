@@ -4,8 +4,14 @@ $button-color-border-brand-primary: $blue-border-primary !default;
 $button-color-border-primary: $palette-gray-5 !default;
 $button-color-border-secondary: $white-transparent-80 !default;
 $button-color-text-primary: $palette-gray-1 !default;
-$button-border-radius: 0.25rem !default;
-$color-background-button-brand: $science-blue !default;
+
+//Elite Customized
+$button-border-radius: 44px !default;
+
+//Elite
+$color-background-button-brand: $Elite-blue !default;
+$color-background-button-brand-reverse: $Elite-blue-reverse !default;
+
 $color-background-button-brand-active: $midnight-blue !default;
 $color-background-button-brand-disabled: $steam !default;
 $color-background-button-brand-hover: $newport-color-brand-orange !default;
