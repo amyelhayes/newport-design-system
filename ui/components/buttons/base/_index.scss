@@ -373,6 +373,8 @@ svg.nds-button__icon {
  * @modifier
  * @group size
  */
+
+ //Elite - gets rid of screenwide button
 .nds-button_stretch {
-    width: 100%;
+    width: 40%;
 }

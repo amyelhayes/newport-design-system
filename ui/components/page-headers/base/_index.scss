@@ -29,8 +29,12 @@
  * @restrict .nds-page-header h1
  */
 .nds-page-header__title {
+
+//Elite Modified
   font-size: $page-header-title-font-size;
+//Elite Modified
   font-weight: $page-header-title-font-weight;
+
   line-height: $line-height-heading;
 
   .nds-icon {
